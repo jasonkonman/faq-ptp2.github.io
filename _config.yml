@@ -1,5 +1,4 @@
 markdown: kramdown
-remote_theme: pages-themes/minimal
-
+theme: jekyll-theme-minimal
 title: "FAQ"
 description: "Type 2 Diabetes FAQ"

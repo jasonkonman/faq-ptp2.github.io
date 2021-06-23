@@ -23,7 +23,7 @@ permalink: /he/faq/3/
   </ul>
   
   <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/4/">דוגמא לתפריט יומי – יש להתאים את הכמויות באופן אישי:</a>
-  <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/home/">< Back: FAQ Home</a>
+  <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/home/">חזרה לשאלות נפוצות </a>
 
  </div>
 

@@ -17,7 +17,7 @@ permalink: /he/faq/1/
   </div>
 
   <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/2/">מצבים שונים של סוכרת מסוג 2</a>
-  <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/home/">< Back: FAQ Home</a>
+  <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/home/">חזרה לשאלות נפוצות </a>
  </div>
 
 

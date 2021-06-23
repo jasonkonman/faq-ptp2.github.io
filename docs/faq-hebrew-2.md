@@ -27,7 +27,7 @@ permalink: /he/faq/2/
   </div>
   
   <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/3/">הנחיות תזונתיות לחולי סוכרת ודוגמא לתפריט יומי</a>
-  <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/home/">< Back: FAQ Home</a>
+  <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/home/">חזרה לשאלות נפוצות</a>
 
  </div>
 

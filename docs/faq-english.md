@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Diabetes FAQ EN"
 permalink: /en/faq/home/
 ---

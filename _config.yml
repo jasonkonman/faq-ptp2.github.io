@@ -1,0 +1,5 @@
+markdown: kramdown
+theme: jekyll-theme-minimal
+
+title: "FAQ"
+description: "Type 2 Diabetes FAQ"

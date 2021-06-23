@@ -38,4 +38,4 @@ permalink: /en/faq/4/
 - Protein - Lean cheese / yogurt / Tuna in water or fat - Tahini or avocado - 
 - Sugar free Drinks
 
- <br><a class="button" href="/en/faq/home/">< Back: FAQ Home</a>
+ <br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/home/">< Back: FAQ Home</a>

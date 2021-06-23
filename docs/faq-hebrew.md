@@ -6,10 +6,10 @@ permalink: /he/faq/home/
 
 <div dir="rtl">
     <h1>What do you want to learn about?</h1>
-        <br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/1/">Diabetes: Basic Information</a>
-        <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/2/">Diabetes: Common Symptoms</a>
-        <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/3/">Dietary guidelines for diabetics</a><br>
-        <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/4/">Diabetic Friendly Daily Meal Plans</a>
+        <br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/1/">סוכרת מסוג 2: מידע בסיסי</a>
+        <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/2/">מצבים שונים של סוכרת מסוג 2</a>
+        <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/3/">הנחיות תזונתיות לחולי סוכרת ודוגמא לתפריט יומי</a><br>
+        <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/4/">דוגמא לתפריט יומי – יש להתאים את הכמויות באופן אישי:</a>
 </div>
 
 

@@ -26,8 +26,8 @@ permalink: /he/faq/2/
     <iframe width="560" height="349" src="https://www.youtube.com/embed/Zflc_G3CWaA" frameborder="0" allowfullscreen></iframe>
   </div>
   
-  <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/3/">הנחיות תזונתיות לחולי סוכרת ודוגמא לתפריט יומי</a>
-  <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/home/">< Back: FAQ Home</a>
+  <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/3/">הנחיות תזונתיות לחולי סוכרת ודוגמא לתפריט יומי</a>
+  <br><br><a class="button-he" href="https://jasonkonman.github.io/faq-ptp2.github.io/he/faq/home/">< Back: FAQ Home</a>
 
  </div>
 

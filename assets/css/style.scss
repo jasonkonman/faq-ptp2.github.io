@@ -1,8 +1,0 @@
----
----
-
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
-@import "minima/initialize";
-
-$text-color:       #111 !default;
-$background-color: #fdfdfd !default;

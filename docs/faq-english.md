@@ -5,8 +5,7 @@ permalink: /en/faq/home/
 ---
 
 # What do you want to learn about?
- <br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/home/">< Back: FAQ Home</a>
- <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/2/">Diabetes: Common Symptoms</a><br>
- <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/4/">Diabetic Friendly Daily Meal Plans</a><br>
+ <br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/1/">Diabetes: Basic Information</a>
+ <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/2/">Diabetes: Common Symptoms</a>
+ <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/4/">Diabetic Friendly Daily Meal Plans</a>
  <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/3/">Dietary guidelines for diabetics</a><br>
- <br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/home/">< Back: FAQ Home</a>

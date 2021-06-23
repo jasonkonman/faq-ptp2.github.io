@@ -15,7 +15,7 @@ Type 2 diabetes used to be known as adult-onset diabetes, but both type 1 and ty
   <!-- Copy & Pasted from YouTube -->
   <iframe width="560" height="349" src="https://www.youtube.com/embed/4SZGM_E5cLI" frameborder="0" allowfullscreen></iframe>
 </div>
+ <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/2/">Diabetes: Common Symptoms</a>
+ <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/home/">< Back: FAQ Home</a>
 
- <br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/home/">< Back: FAQ Home</a>
- <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/2/">Diabetes: Common Symptoms</a><br>
 

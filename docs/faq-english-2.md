@@ -23,7 +23,8 @@ Diabetes symptoms vary depending on how much your blood sugar is elevated. Some 
 - Slow-healing sores
 - Frequent infections, such as gums or skin infections and vaginal infections
 
- <br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/home/">< Back: FAQ Home</a>
- <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/4/">Diabetic Friendly Daily Meal Plans</a><br>
+ 
+ <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/4/">Diabetic Friendly Daily Meal Plans</a>
+ <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/home/">< Back: FAQ Home</a>
 
 

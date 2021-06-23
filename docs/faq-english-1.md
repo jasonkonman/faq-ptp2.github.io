@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "What is Type 2 Diabetes"
 permalink: /en/faq/1/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Dietary guidelines for diabetics"
 permalink: /en/faq/3/
 ---

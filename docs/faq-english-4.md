@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Diabetic Friendly Daily Meal Plans"
 permalink: /en/faq/4/
 ---

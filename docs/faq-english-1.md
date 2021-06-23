@@ -14,5 +14,5 @@ Type 2 diabetes used to be known as adult-onset diabetes, but both type 1 and ty
 <iframe width="1111" height="625" src="https://www.youtube.com/embed/4SZGM_E5cLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
- <a class="button" href="/en/faq/2/">FAQ English 2</a><br>
- <a class="button" href="/en/faq/home/">FAQ Home</a><br>
+ <a style="background-color: #3678f7;border: none;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;border-radius: 8px;" href="/en/faq/2/">FAQ English 2</a><br>
+ <a style="background-color: #3678f7;border: none;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;border-radius: 8px;" href="/en/faq/home/">FAQ Home</a><br>

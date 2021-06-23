@@ -12,7 +12,10 @@ permalink: /he/faq/home/
 
 סוכרת מסוג 2 הייתה ידועה בעבר כסוכרת מבוגרים, אך גם סוכרת מסוג 1 וגם סוג 2 יכולה להתחיל במהלך הילדות והבגרות. סוג 2 שכיח יותר בקרב מבוגרים, אך העלייה במספר הילדים עם השמנת יתר הובילה ליותר מקרים של סוכרת מסוג 2 בקרב אנשים צעירים יותר.
 
-<iframe width="1600" height="753" src="https://www.youtube.com/embed/8ProWXuq5r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+  <!-- Copy & Pasted from YouTube -->
+  <iframe width="560" height="349" src="https://www.youtube.com/embed/8ProWXuq5r0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <h1>מצבים שונים של סוכרת מסוג 2</h1>
 תסמיני סוכרת משתנים בהתאם למידת העלייה ברמת הסוכר בדם. לפעמים יש אנשים שלא חווים תסמינים. היזהר מהתופעות הללו. אם תסמינים אלה נמשכים, פנה אלינו לקבלת עזרה.
@@ -28,7 +31,10 @@ permalink: /he/faq/home/
 <ul>זיהומים תכופים, כגון חניכיים או דלקות עור וזיהומים בנרתיק</ul>
 
 הסרטון שלהלן מתאר את המצבים הגליקמיים שחולים בסוכרת Type 2 עשויים לחוות.
-<iframe width="1600" height="753" src="https://www.youtube.com/embed/8ProWXuq5r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="videoWrapper">
+    <!-- Copy & Pasted from YouTube -->
+    <iframe width="560" height="349" src="https://www.youtube.com/embed/Zflc_G3CWaA" frameborder="0" allowfullscreen></iframe>
+    </div>
 
 </div>
 

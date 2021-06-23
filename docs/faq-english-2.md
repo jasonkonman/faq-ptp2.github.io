@@ -6,7 +6,10 @@ permalink: /en/faq/2/
 
 # Common Symptoms
 The video below describes the glycaemic conditions which Type 2 Diabetes patients may experience. 
-<iframe width="1111" height="625" src="https://www.youtube.com/embed/bIhy-Rb2xp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+  <!-- Copy & Pasted from YouTube -->
+  <iframe width="560" height="349" src="https://www.youtube.com/embed/bIhy-Rb2xp4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Diabetes symptoms vary depending on how much your blood sugar is elevated. Some people may sometimes not experience symptoms. Look out for these symptoms. If these symptoms persist, contact us for help.
 - Increased thirst

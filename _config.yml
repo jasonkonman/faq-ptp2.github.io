@@ -2,5 +2,4 @@ markdown: kramdown
 theme: minima
 title: "FAQ"
 description: "Type 2 Diabetes FAQ"
-minima:
-  skin: dark
+

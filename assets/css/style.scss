@@ -1,17 +1,5 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-body {
-    background-color: #0016ff;
-    padding:50px;
-    font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color:#fefffe;
-    font-weight:400;
-  }
-  
-  h1, h2, h3, h4, h5, h6 {
-    color:#fefffe;
-    margin:0 0 20px;
-  }
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";

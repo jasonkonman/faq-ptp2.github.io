@@ -1,4 +1,6 @@
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 title: "FAQ"
 description: "Type 2 Diabetes FAQ"
+minima:
+  skin: dark

@@ -20,4 +20,5 @@ It is advisable to eat foods that contain dietary fiber such as: whole grains (s
 - It is advisable to drink at least 8 drinking glasses without sugar or honey. Artificial sweeteners can be used. 
 - It is important to prevent hypoglycemia (a decrease in glucose levels of less than 70% mg), which is usually caused by a mismatch between medication and / or insulin and the amount of carbohydrates in a meal or exercise.
 
-
+ <br><a class="button" href="/en/faq/home/">< Back: FAQ Home</a>
+ <br><br><a class="button" href="/en/faq/3/">Dietary guidelines for diabetics</a><br>

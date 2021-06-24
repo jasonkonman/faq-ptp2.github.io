@@ -9,3 +9,6 @@ permalink: /en/faq/home/
  <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/2/">Diabetes: Common Symptoms</a>
  <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/4/">Diabetic Friendly Daily Meal Plans</a>
  <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/3/">Dietary guidelines for diabetics</a><br>
+
+
+<a class="button"  href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/3/">Dietary guidelines for diabetics</a><span id="chevron">></span>

@@ -21,7 +21,7 @@ Diabetes symptoms vary depending on how much your blood sugar is elevated. Some 
 - Irritability
 - Blurred vision
 - Slow-healing sores
-- Frequent infections, such as gums or skin infections and vaginal infections
+- Frequent infections, such as gums or skin infections and urinary tract infections
 
  
  <br><br><a class="button" href="https://jasonkonman.github.io/faq-ptp2.github.io/en/faq/4/">Diabetic Friendly Daily Meal Plans</a>

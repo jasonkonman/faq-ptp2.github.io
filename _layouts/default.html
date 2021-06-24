@@ -1,9 +1,20 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
   {%- include head.html -%}
 
   <style>
+    @media (prefers-color-scheme: light) {
+      body {
+          background-color: white;
+          color: black;
+          }
+    @media (prefers-color-scheme: dark) {
+      body {
+          background-color: black;
+          color: white;
+          }
+      }
       .button {
         background-color: #3678f7; /* Green */
         border: none;
